@@ -1,0 +1,25 @@
+1. Used to design system software(OS, loader, linker, Drivers)
+2. It is mid level laguage,  because it supports the feature of both low-level and high-level languages.
+3. Developed in 1972 by Dennis Ritchie at the Bell Laboratories
+4. It a successor to the B programming language
+5. C was used for developing the UNIX operating system
+6. C has become a popular language for developing system-level software, embedded systems, and other applications. 
+7. Program is collection of instructions
+8. Extension is .c or .cpp
+9. .c ----> .obj ----> .exe
+10. Error : logical error (runtime error)
+            syntax error (compile time error): which occur in program due tp wrong grammar     
+            linking error
+11. c is function oriented language
+12. c having main a driver function
+13. two functions 1. predefine function 2. user defined function
+
+* Variables --->
+    - Variables is the name of memory location which stores some data 
+    - Variable is the name of memory location where value can stored    
+    - Example: a=25, where "a" is Variable
+    - Rules: variable is case sensitive
+             1st character is aplhabet or hyphen(_)
+             no comma/ blank space in variable names
+             No other symbol is allowed except (_)
+    - 
